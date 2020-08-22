@@ -1,2 +1,2 @@
 # I-educate
-a blog which study material for students
+a blog which have study material for students
